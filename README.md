@@ -1,2 +1,1 @@
-Hello, world
-I’m adding some new text.
+this is readme, tell me what you like.
